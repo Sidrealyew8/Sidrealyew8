@@ -1,5 +1,5 @@
 ## Welcome 
-Hi there, my name is Luca Pienaar and I am a Computer networks & Cyber security student.
+Hi there, my name is Luca Pienaar and I am currently a 2nd year Computer networks & Cyber security university student.
 
 ## Programming and Markup Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bash)](https://skillicons.dev)
