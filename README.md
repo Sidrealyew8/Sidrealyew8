@@ -2,7 +2,7 @@
 Hi there, my name is Luca Pienaar and I am currently a 2nd year Computer networks & Cyber security university student.
 
 ## Programming and Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bash,php)](https://skillicons.dev)
 
 ## IDE'S Used
 [![My Skills](https://skillicons.dev/icons?i=clion,vscode,visualstudio,)](https://skillicons.dev)
